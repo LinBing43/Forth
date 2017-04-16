@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_title_edittext_preference">输入你最喜欢的动物：</string>
+    <string name="title_edittext_preference">编辑文本框</string>
+    <string name="summary_edittext_preference">文本框弹出</string>
+    <string name="title_checkbox_preference">Checkbox</string>
+    <string name="summary_checkbox_preference">这是一个checkbox</string>
+    <string name="app_name">Forth</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="inline_preferences">In-line preferences</string>
+    <string name="dialog_based_preferences">Dialog-based preferences</string>
+    <string name="launch_preferences">Launch preferences</string>
+    <string name="preference_attributes">Preference attributes</string>
+    <string name="title_list_preference">列表单选</string>
+    <string name="summary_list_preference">使用list dialog的例子</string>
+    <string name="dialog_title_list_preference">请选择：</string>
+    <string name="title_screen_preference">页面跳转</string>
+    <string name="summary_screen_preference">screen_preference</string>
+    <string name="title_fragment_preference">Fragment preference</string>
+    <string name="summary_fragment_preference">显示另一个页面</string>
+    <string name="title_next_screen_toggle_preference">Toggle preference</string>
+    <string name="summary_next_screen_toggle_preference">Preference that is on the next screen but same hierarchy</string>
+    <string name="title_intent_preference">Intent preference</string>
+    <string name="summary_intent_preference">打开一个网页（默认CSDN）</string>
+    <string name="title_my_preference">My preference</string>
+    <string name="summary_my_preference">This is a custom counter preference</string>
+    <string name="title_advanced_toggle_preference">Haunted preference</string>
+    <string name="summary_on_advanced_toggle_preference">I\'m on! :)</string>
+    <string name="summary_off_advanced_toggle_preference">I\'m off! :(</string>
+    <string name="title_parent_preference">父类checkbox</string>
+    <string name="summary_parent_preference">This is visually a parent</string>
+    <string name="title_child_preference">子类checkbox</string>
+    <string name="summary_child_preference">This is visually a child</string>
+</resources>
